@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+article {
+    padding: 5px;
+}
+
+article > h1 {
+    text-align: center;
+}
+
+article img {
+    padding-bottom: 20px;
+}
